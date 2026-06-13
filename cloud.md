@@ -80,3 +80,12 @@ Solution: Wait 1 minute. Free tier: 60 requests/minute.
 
 Problem: "Agent not following 3-section format"
 Solution: Check that [`agents.md`](./agents.md) priority rules are at the top of the file
+
+
+---
+
+## Authentication
+
+For **Antigravity CLI**: Sign in with Google account (OAuth). No API key required.
+
+For **Antigravity IDE**: Use GEMINI_API_KEY environment variable or MCP config.

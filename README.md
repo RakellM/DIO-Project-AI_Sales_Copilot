@@ -220,6 +220,132 @@ We delivered all last winter during polar vortex days. Want to try 3 meals with 
 
 Result: Rep copies the response, adds personal touch, sends in 90 seconds vs 8 minutes of research.
 
+
+---
+
+## Test Results 
+
+| Test | Topic | Status |
+|------|-------|--------|
+| 1 | Winter Delivery (Barrie) | ✅ PASS |
+| 2 | GLP-1 Nausea | ✅ PASS |
+| 3 | Price Objection | ✅ PASS |
+| 4 | Quebec Launch (French) | ✅ PASS |
+| 5 | Severe Allergy | ✅ PASS (safe refusal) |
+| 6 | GLP-1 Fatigue (Mounjaro) | ✅ PASS (exceptional) |
+| 7 | 5-Day Meal Planning | ✅ PASS (exceptional) |
+
+
+**Pass rate: 7/7 (100%)**
+
+[Full test results](./examples/test_results.md) here!
+
+
+---
+
+## Demo 
+
+Click each test to see the AI copilot in action.
+
+<details>
+<summary><b>Test 1: Winter Delivery (Barrie, -20°C)</b></summary>
+
+<br>
+
+![Test 1 - Winter Delivery](./assets/cli-demo-q1.png)
+
+*Customer worried about frozen food in Barrie winter. Agent responds with heated bag guarantee, weather guarantee, and no subscription pressure.*
+
+</details>
+
+<details>
+<summary><b>Test 2: GLP-1 Nausea (Ozempic)</b></summary>
+
+<br>
+
+![Test 2 - GLP-1 Ozempic](./assets/cli-demo-q2.png)
+
+*Customer on Ozempic with nausea. Agent validates experience, mentions Dr. Sarah Chen at Toronto General Hospital, recommends Gentle Roots Bowl with ginger-turmeric broth.*
+
+</details>
+
+<details>
+<summary><b>Test 2b: GLP-1 Fatigue (Mounjaro)</b></summary>
+
+<br>
+
+![Test 2b - GLP-1 Mounjaro](./assets/cli-demo-q3.png)
+
+*Customer on Mounjaro with nausea and fatigue. Agent generalizes correctly, addressing fatigue even though not explicitly in knowledge base.*
+
+</details>
+
+<details>
+<summary><b>Test 3: Price Objection (Tim Hortons Comparison)</b></summary>
+
+<br>
+
+![Test 3 - Price Objection](./assets/cli-demo-q4.png)
+
+*Customer says "$14 for lunch? I can get Tim Hortons for $6." Agent anchors to premium competitors ($15-18), highlights Ontario sourcing, offers 25% off.*
+
+</details>
+
+<details>
+<summary><b>Test 4: Quebec Launch (French)</b></summary>
+
+<br>
+
+![Test 4 - Quebec French](./assets/cli-demo-q5.png)
+
+*Customer in Montreal asks in French about Plateau delivery. Agent responds in natural Quebec French, confirms September 15 launch, offers waitlist with 30% discount.*
+
+</details>
+
+<details>
+<summary><b>Test 5: Severe Peanut Allergy</b></summary>
+
+<br>
+
+![Test 5 - Severe Allergy](./assets/cli-demo-q6.png)
+
+*Customer with severe peanut allergy. Agent safely refuses to invent information, escalates to manager, does NOT guarantee safety (correct behavior).*
+
+</details>
+
+<details>
+<summary><b>Test 6: 5-Day Meal Planning</b></summary>
+
+<br>
+
+![Test 6 - Meal Planning](./assets/cli-demo-q7.png)
+
+*Customer asks for 5 days of lunch + dinner. Agent recommends Standard Plan (10 meals), structures lunches (High Fiber for energy) vs dinners (Protein Forward for recovery), provides 6 specific meals with nutritional reasoning.*
+
+</details>
+
+
+---
+
+## Quick Start (Test the Agent Yourself)
+
+### Prerequisites
+- Google account (free)
+- Antigravity CLI (free)
+
+### One-Command Test
+
+```bash
+# Install Antigravity CLI
+irm https://antigravity.google/cli/install.ps1 | iex
+
+# Run the agent
+agy --help
+```
+
+
+---
+
 ## Business Impact (Projected)
 | Metric | Before Copilot | After Copilot (Target) |
 | --- | --- | --- | 
@@ -264,20 +390,29 @@ DIO-Project-AI_Sales_Copilot
 ├── examples
 │   ├── chat_consumer_price_objection.md
 │   ├── chat_consumer_question_on_freshness.md
-│   └── follow-up_after_sale.md
+│   ├── follow-up_after_sale.md
+│   └── test-results.md                  # 7/7 tests passed
 ├── knowledge
-│   ├── faq.md                           # FAQs (Canada-specific)
-│   ├── objections.md                    # Objection handling scripts
+│   ├── faq.md                           # 35+ FAQs (winter, Quebec, delivery)
+│   ├── objections.md                    # 20+ objection scripts
 │   ├── personas.md                      # 8 customer personas
-│   └── product.md                       # Product catalog (CAD pricing, Ontario sourcing)
+│   └── product.md                       # 12 meals, CAD pricing, Ontario sourcing
 ├── prompts
 │   ├── consumer_analysis.md
 │   └── copilot_answers.md
-├── agents.md
-├── cloud.md
-├── Company_Identity.md
+├── assets/
+│   ├── cli-demo-q1.png
+│   ├── cli-demo-q2.png
+│   ├── cli-demo-q3.png
+│   ├── cli-demo-q4.png
+│   ├── cli-demo-q5.png
+│   ├── cli-demo-q6.png
+│   └── cli-demo-q7.png
+├── agents.md                           # Agent behavior rules
+├── cloud.md                            # Runtime configuration
+├── Company_Identity.md                 # Brand guidelines
 ├── LICENSE
-└── README.md                            # This file
+└── README.md                           # Complete project documentation
 ```
 
 ---
@@ -368,4 +503,16 @@ The agent will return three sections:
 2. INTERNAL NOTES - For rep only (persona, next steps)
 3. FOLLOW-UP QUESTION - Open-ended question to ask customer
 
+
+---
+
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Made with Gemini](https://img.shields.io/badge/Made%20with-Gemini-4285F4?logo=google&logoColor=white)](https://gemini.google.com)
+[![Platform: Antigravity CLI](https://img.shields.io/badge/Platform-Antigravity%20CLI-4285F4?logo=google&logoColor=white)](https://antigravity.google)
+[![Tests: 7/7 Passing](https://img.shields.io/badge/Tests-7%2F7%20Passing-00C853)](./examples/test-results.md)
+[![Canada Ready](https://img.shields.io/badge/Canada-Ready-FF0000?logo=canada&logoColor=white)](./knowledge/)
+
+</div>
 
