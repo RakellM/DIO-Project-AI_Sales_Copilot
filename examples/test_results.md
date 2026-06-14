@@ -18,7 +18,7 @@
 "I hear your concern—Barrie winters are no joke, and nobody wants frozen meals sitting on their porch. Here is how we protect your food:
 
 1. Heated Delivery Bags: Our insulated bags keep meals at 38-45°C for up to 2 hours, even when it's -20°C outside.
-2. Winter Weather Guarantee: If any food arrives cold or frozen, we'll give you a full refund plus a $5 credit.
+2. Winter Weather Guarantee: If any food arrives cold or frozen, we'll give you a full refund plus a \$5 credit.
 3. 5-Minute Alerts: We'll text you when your driver is 5 minutes away so you can grab the package right off the porch.
 4. Barrie Delivery Schedule: We deliver to Barrie on Tuesdays and Thursdays during the winter, monitoring Highway 400 conditions hourly to ensure safety.
 
@@ -62,10 +62,10 @@ We always recommend consulting your doctor before making any dietary changes whe
 with Canadian dietitians, so you can review it first. Would you like us to send that over?" 
 
 ## INTERNAL NOTES (Rep Only)
-• Customer persona: Persona 2 (The GLP-1 User) in personas.md
-• Key objection/need: Nausea after starting Ozempic two weeks ago, and concern that GLP-1 meals will make symptoms worse. 
-• Recommended next action: Offer the GLP-1 nutrition whitepaper to review and suggest starting with a single, highly digestible option like the product.md. 
-• Watch out for: Do not offer any medical advice beyond recommending they consult their doctor, per the GLP-1 protocol in objections.md. 
+- Customer persona: Persona 2 (The GLP-1 User) in personas.md
+- Key objection/need: Nausea after starting Ozempic two weeks ago, and concern that GLP-1 meals will make symptoms worse. 
+- Recommended next action: Offer the GLP-1 nutrition whitepaper to review and suggest starting with a single, highly digestible option like the product.md. 
+- Watch out for: Do not offer any medical advice beyond recommending they consult their doctor, per the GLP-1 protocol in objections.md. 
 
 ## FOLLOW-UP QUESTION TO ASK CUSTOMER 
 
@@ -78,14 +78,14 @@ with Canadian dietitians, so you can review it first. Would you like us to send 
 ## Test 3: Price Objection (Tim Hortons Comparison)
 
 **Query:**
-> Customer says "$14 for lunch? I can get Tim Hortons for $6."
+> Customer says "$14 for lunch? I can get Tim Hortons for \$6."
 
 **Response:**
 
 ## SUGGESTED RESPONSE 
 
-"You're absolutely right—Tim Hortons is cheaper. But let's compare apples to apples. A fresh salad from Freshii or Chopped Leaf in Ontario costs around $15-18, a grain 
-bowl from Impact Kitchen in Toronto is $16-20, and even a standard fast-food combo meal is $12-14 now.
+"You're absolutely right—Tim Hortons is cheaper. But let's compare apples to apples. A fresh salad from Freshii or Chopped Leaf in Ontario costs around \$15-18, a grain 
+bowl from Impact Kitchen in Toronto is \$16-20, and even a standard fast-food combo meal is \$12-14 now.
 
 With TasteCraft, you're getting premium, never-frozen meals made with Ontario-raised beef, greenhouse-grown greens, and recipes created by a chef who trained at Canoe
 (Toronto's famous restaurant). Plus, we deliver it straight to you. 
@@ -94,11 +94,11 @@ If you want to taste the difference yourself, you can get 25% off your first ord
 
 ## INTERNAL NOTES (Rep Only)
 
-• Customer persona: Price Objection/Skeptic (General Value Tone) as defined in the tone guidelines of personas.md. 
-• Key objection/need: Customer is comparing the premium lunch option to cheap fast food (Tim Hortons) and questioning the value of a $14 meal.
-• Recommended next action: Acknowledge the cheap alternative, shift the comparison to premium healthy options, highlight local ingredients, and offer the 25% first-order 
+- Customer persona: Price Objection/Skeptic (General Value Tone) as defined in the tone guidelines of personas.md. 
+- Key objection/need: Customer is comparing the premium lunch option to cheap fast food (Tim Hortons) and questioning the value of a \$14 meal.
+- Recommended next action: Acknowledge the cheap alternative, shift the comparison to premium healthy options, highlight local ingredients, and offer the 25% first-order 
 discount code ( CRAFT25 ).
-• Watch out for: Do not criticize Tim Hortons; focus instead on the freshness (never frozen) and local Ontario sourcing advantages detailed in objections.md.
+- Watch out for: Do not criticize Tim Hortons; focus instead on the freshness (never frozen) and local Ontario sourcing advantages detailed in objections.md.
 
 ## FOLLOW-UP QUESTION TO ASK CUSTOMER 
 
@@ -132,11 +132,11 @@ Nous avons bien hâte de cuisiner pour vous avec des ingrédients locaux du Qué
 
 ## INTERNAL NOTES (Rep Only)
 
-• Customer persona: Persona 6 (The Quebec Early Adopter) in personas.md
-• Key objection/need: Checking if delivery is available to the Plateau-Mont-Royal neighbourhood in Montreal by September. 
-• Recommended next action: Guide the customer to register for the waitlist at tastecraft.ca/quebec to secure a 30% discount, and outline the launch date of September 15, 
+- Customer persona: Persona 6 (The Quebec Early Adopter) in personas.md
+- Key objection/need: Checking if delivery is available to the Plateau-Mont-Royal neighbourhood in Montreal by September. 
+- Recommended next action: Guide the customer to register for the waitlist at tastecraft.ca/quebec to secure a 30% discount, and outline the launch date of September 15, 
 2026. 
-• Watch out for: Do not promise earlier delivery or guarantee exact neighborhood boundaries as agreements are still being finalized with the MAPAQ, per the protocol in 
+- Watch out for: Do not promise earlier delivery or guarantee exact neighborhood boundaries as agreements are still being finalized with the MAPAQ, per the protocol in 
 objections.md. 
 
 ## FOLLOW-UP QUESTION TO ASK CUSTOMER 
@@ -185,10 +185,10 @@ developed with Canadian dietitians, to review. Would you like me to send that ov
 
 ## INTERNAL NOTES (Rep Only)
 
-• Customer persona: Persona 2 (The GLP-1 User) in personas.md
-• Key objection/need: Nausea and fatigue from starting Mounjaro three weeks ago, and concern that GLP-1 meals will worsen symptoms. 
-• Recommended next action: Offer the GLP-1 nutrition whitepaper to review and suggest starting with a highly digestible option like the product.md. 
-• Watch out for: Fatigue is not explicitly detailed in our knowledge base; do not provide medical advice regarding fatigue or nausea beyond recommending they consult 
+- Customer persona: Persona 2 (The GLP-1 User) in personas.md
+- Key objection/need: Nausea and fatigue from starting Mounjaro three weeks ago, and concern that GLP-1 meals will worsen symptoms. 
+- Recommended next action: Offer the GLP-1 nutrition whitepaper to review and suggest starting with a highly digestible option like the product.md. 
+- Watch out for: Fatigue is not explicitly detailed in our knowledge base; do not provide medical advice regarding fatigue or nausea beyond recommending they consult 
 their doctor, per the GLP-1 protocol in objections.md. 
 
 ## FOLLOW-UP QUESTION TO ASK CUSTOMER 
@@ -212,7 +212,7 @@ recently?"
 
 ## SUGGESTED RESPONSE 
 
-"For 5 days of lunch and dinner, our Standard Plan (10 meals/week) is the perfect fit. It runs at $11.95 CAD per meal ($119.50 CAD weekly total, plus HST) and comes with 
+"For 5 days of lunch and dinner, our Standard Plan (10 meals/week) is the perfect fit. It runs at \$11.95 CAD per meal ($119.50 CAD weekly total, plus HST) and comes with 
 free delivery.
 
 Since you are moderately active and looking for balanced, day-to-day nutrition, we recommend structuring your box with a mix of our Protein Forward track (for filling, 
@@ -222,25 +222,25 @@ Here is a recommended 10-meal structure for your week:
 
 Lunches (Focused on clean energy and focus):
 
-• 2x The Daily Grind Bowl: Toasted farro, beluga lentils, and greenhouse-grown kale with a miso-tahini dressing (14g fiber to prevent the 3 PM crash).
-• 2x Smoky Black Bean & Sweet Potato: Roasted sweet potatoes, black beans, and charred corn salsa (16g fiber).
-• 1x Golden Turmeric Tofu: Turmeric-crusted tofu, coconut rice, and ginger-sunflower butter dressing. 
+- 2x The Daily Grind Bowl: Toasted farro, beluga lentils, and greenhouse-grown kale with a miso-tahini dressing (14g fiber to prevent the 3 PM crash).
+- 2x Smoky Black Bean & Sweet Potato: Roasted sweet potatoes, black beans, and charred corn salsa (16g fiber).
+- 1x Golden Turmeric Tofu: Turmeric-crusted tofu, coconut rice, and ginger-sunflower butter dressing. 
 
 Dinners (Focused on satisfying, high-protein recovery): 
 
-• 2x The Iron Craft Bowl: Grass-fed Ontario beef strips, black garlic quinoa, and roasted broccoli (52g protein). 
-• 2x Spicy Harissa Chicken: Harissa-marinated chicken breast, saffron wild rice, and preserved lemon yogurt.
-• 1x Great Lakes Salmon: Maple-glazed local salmon with wild rice pilaf and asparagus.
+- 2x The Iron Craft Bowl: Grass-fed Ontario beef strips, black garlic quinoa, and roasted broccoli (52g protein). 
+- 2x Spicy Harissa Chicken: Harissa-marinated chicken breast, saffron wild rice, and preserved lemon yogurt.
+- 1x Great Lakes Salmon: Maple-glazed local salmon with wild rice pilaf and asparagus.
 
 You can order this as a one-time box or set up a flexible weekly subscription that you can pause anytime. Don't forget to use code CRAFT25 at checkout to get 25% off your
 first order! How does this menu look to you?" 
 
 ## INTERNAL NOTES (Rep Only)
 
-• Customer persona: General Healthy/Active Adult (similar to Sarah/Marcus tracks) in personas.md 
-• Key objection/need: Structuring a 5-day (10-meal) plan for lunch and dinner for a moderately active individual looking for balanced nutrition.
-• Recommended next action: Recommend the Standard Plan (10 meals/week) and provide a curated meal selection, highlighting the first-order discount codeCRAFT25 .
-• Watch out for: Remind the representative that HST (13%) is added at checkout, and note the subscription and pricing tiers listed in faq.md and product.md.
+- Customer persona: General Healthy/Active Adult (similar to Sarah/Marcus tracks) in personas.md 
+- Key objection/need: Structuring a 5-day (10-meal) plan for lunch and dinner for a moderately active individual looking for balanced nutrition.
+- Recommended next action: Recommend the Standard Plan (10 meals/week) and provide a curated meal selection, highlighting the first-order discount code `CRAFT25` .
+- Watch out for: Remind the representative that HST (13%) is added at checkout, and note the subscription and pricing tiers listed in `faq.md` and `product.md`.
 
 ## FOLLOW-UP QUESTION TO ASK CUSTOMER 
 
