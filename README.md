@@ -270,22 +270,11 @@ Click each test to see the AI copilot in action.
 </details>
 
 <details>
-<summary><b>Test 2b: GLP-1 Fatigue (Mounjaro)</b></summary>
-
-<br>
-
-![Test 2b - GLP-1 Mounjaro](./assets/cli-demo-q3.png)
-
-*Customer on Mounjaro with nausea and fatigue. Agent generalizes correctly, addressing fatigue even though not explicitly in knowledge base.*
-
-</details>
-
-<details>
 <summary><b>Test 3: Price Objection (Tim Hortons Comparison)</b></summary>
 
 <br>
 
-![Test 3 - Price Objection](./assets/cli-demo-q4.png)
+![Test 3 - Price Objection](./assets/cli-demo-q3.png)
 
 *Customer says "$14 for lunch? I can get Tim Hortons for $6." Agent anchors to premium competitors ($15-18), highlights Ontario sourcing, offers 25% off.*
 
@@ -296,7 +285,7 @@ Click each test to see the AI copilot in action.
 
 <br>
 
-![Test 4 - Quebec French](./assets/cli-demo-q5.png)
+![Test 4 - Quebec French](./assets/cli-demo-q4.png)
 
 *Customer in Montreal asks in French about Plateau delivery. Agent responds in natural Quebec French, confirms September 15 launch, offers waitlist with 30% discount.*
 
@@ -307,14 +296,29 @@ Click each test to see the AI copilot in action.
 
 <br>
 
-![Test 5 - Severe Allergy](./assets/cli-demo-q6.png)
+![Test 5 - Severe Allergy](./assets/cli-demo-q5.png)
 
 *Customer with severe peanut allergy. Agent safely refuses to invent information, escalates to manager, does NOT guarantee safety (correct behavior).*
 
 </details>
 
+
 <details>
-<summary><b>Test 6: 5-Day Meal Planning</b></summary>
+<summary><b>Test 6: GLP-1 Fatigue (Mounjaro)</b></summary>
+
+<br>
+
+![Test 2b - GLP-1 Mounjaro](./assets/cli-demo-q6.png)
+
+*Customer on Mounjaro with nausea and fatigue. Agent generalizes correctly, addressing fatigue even though not explicitly in knowledge base.*
+
+</details>
+
+
+
+
+<details>
+<summary><b>Test 7: 5-Day Meal Planning</b></summary>
 
 <br>
 
