@@ -1,8 +1,11 @@
 # TasteCraft AI Sales Copilot - Test Results
 
 **Date:** June 13, 2026
+
 **Environment:** Antigravity CLI v1.0.8
+
 **Model:** Gemini 3.5 Flash
+
 
 ---
 
